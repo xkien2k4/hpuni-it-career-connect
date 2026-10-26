@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+### Bước 2: Cài đặt các gói phụ thuộc (Dependencies)
+Chạy lệnh sau để tải và cài đặt toàn bộ các thư viện cần thiết:
+```bash
+npm install
+```
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/c5e4f1e1-c6b0-4fd3-bb8b-514715e633da
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Bước 3: Chạy môi trường phát triển (Development Server)
+Khởi động máy chủ thử nghiệm cục bộ:
+```bash
+npm run dev
+```
