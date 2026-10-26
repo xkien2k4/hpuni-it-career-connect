@@ -1,0 +1,6 @@
+{
+  "name": "HPUni IT Career Connect - Khoa CNTT Trường Đại học Hải Phòng",
+  "description": "Cổng tuyển dụng và kết nối doanh nghiệp Khoa Công nghệ thông tin, Trường Đại học Hải Phòng. Hỗ trợ sinh viên thực tập, việc làm và phát triển sự nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
